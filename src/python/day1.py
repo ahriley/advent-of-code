@@ -1,6 +1,6 @@
 import numpy as np
 
-with open('data/day1_input.txt') as f:
+with open('data/day1.txt') as f:
     lines = f.read()
 input = lines.split('\n')
 changes = np.array([int(delta) for delta in input[:-1]])
