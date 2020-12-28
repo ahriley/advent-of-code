@@ -24,7 +24,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | 13 | :star: | :white_check_mark: || 14 | :star: | :star: |
 | 15 | :star: | :star: || 16 | :star: | :star: |
 | 17 | :star: | :star: || 18 | :star: | :star: |
-| 19 | :white_check_mark: | :star: || 20 |  |  |
+| 19 | :white_check_mark: | :star: || 20 | :white_check_mark: | :white_check_mark: |
 | 21 | :star: | :star: || 22 | :star: | :star: |
 | 23 | :star: | :star: || 24 | :star: | :star: |
 | 25 | :star: | :star: |||||
